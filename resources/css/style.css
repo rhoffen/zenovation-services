@@ -6,6 +6,13 @@ html {
   color: #012C40;
   /*background-color: #daebf2;*/
   background-color: #e6eff2;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5 {
+  line-height: 1.2;
 }
 
 *, *:before, *:after {
